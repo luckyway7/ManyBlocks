@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "portal": "nether_portal"
+      },
+      "name": "default"
+    }
+  }
+}

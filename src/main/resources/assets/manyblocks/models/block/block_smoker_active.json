@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/smoker_bottom",
+    "up": "manyblocks:blocks/smoker_bottom",
+    "north": "manyblocks:blocks/smoker_front_on",
+    "east": "manyblocks:blocks/smoker_side",
+    "south": "manyblocks:blocks/smoker_side",
+    "west": "manyblocks:blocks/smoker_side",
+    "particle": "manyblocks:blocks/smoker_bottom"
+  }
+}

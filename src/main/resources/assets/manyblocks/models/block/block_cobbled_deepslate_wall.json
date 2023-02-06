@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "manyblocks:blocks/cobbled_deepslate",
+    "particle": "manyblocks:blocks/cobbled_deepslate"
+  }
+}

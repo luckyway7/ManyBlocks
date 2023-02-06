@@ -1,0 +1,10 @@
+{
+  "parent": "manyblocks:custom/honey_block",
+  "textures": {
+    "all": "manyblocks:blocks/honey_block_bottom",
+    "particle": "manyblocks:blocks/honey_block_bottom",
+    "honey_block_top": "manyblocks:blocks/honey_block_top",
+    "honey_block_bottom": "manyblocks:blocks/honey_block_bottom",
+    "honey_block_side": "manyblocks:blocks/honey_block_side"
+  }
+}

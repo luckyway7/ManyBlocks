@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "lantern": "soul_lantern"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "manyblocks:blocks/warped_planks",
+    "particle": "manyblocks:blocks/warped_planks"
+  }
+}

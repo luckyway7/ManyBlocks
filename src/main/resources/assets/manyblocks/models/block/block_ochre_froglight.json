@@ -1,0 +1,9 @@
+{
+  "parent": "manyblocks:custom/ochre_froglight",
+  "textures": {
+    "all": "manyblocks:blocks/ochre_froglight_top",
+    "particle": "manyblocks:blocks/ochre_froglight_top",
+    "side": "manyblocks:blocks/ochre_froglight_side",
+    "top": "manyblocks:blocks/ochre_froglight_top"
+  }
+}

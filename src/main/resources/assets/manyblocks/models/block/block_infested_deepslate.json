@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/deepslate_top",
+    "up": "manyblocks:blocks/deepslate_top",
+    "north": "manyblocks:blocks/deepslate",
+    "east": "manyblocks:blocks/deepslate",
+    "south": "manyblocks:blocks/deepslate",
+    "west": "manyblocks:blocks/deepslate",
+    "particle": "manyblocks:blocks/deepslate_top"
+  }
+}

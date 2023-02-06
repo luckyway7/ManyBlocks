@@ -1,0 +1,12 @@
+{
+  "parent": "manyblocks:custom/lectern",
+  "textures": {
+    "all": "manyblocks:blocks/lectern_sides",
+    "particle": "manyblocks:blocks/lectern_sides",
+    "lectern_top": "manyblocks:blocks/lectern_top",
+    "oak_planks": "manyblocks:blocks/oak_planks",
+    "lectern_front": "manyblocks:blocks/lectern_front",
+    "lectern_base": "manyblocks:blocks/lectern_base",
+    "lectern_sides": "manyblocks:blocks/lectern_sides"
+  }
+}

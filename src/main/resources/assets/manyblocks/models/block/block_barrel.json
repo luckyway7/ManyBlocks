@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/barrel_bottom",
+    "up": "manyblocks:blocks/barrel_top",
+    "north": "manyblocks:blocks/barrel_side",
+    "east": "manyblocks:blocks/barrel_side",
+    "south": "manyblocks:blocks/barrel_side",
+    "west": "manyblocks:blocks/barrel_side",
+    "particle": "manyblocks:blocks/barrel_bottom"
+  }
+}

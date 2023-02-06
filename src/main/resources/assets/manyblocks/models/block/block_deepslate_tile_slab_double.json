@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "manyblocks:blocks/deepslate_tiles",
+    "particle": "manyblocks:blocks/deepslate_tiles"
+  }
+}

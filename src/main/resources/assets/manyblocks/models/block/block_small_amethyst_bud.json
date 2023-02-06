@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/small_amethyst_bud",
+  "textures": {
+    "all": "manyblocks:blocks/small_amethyst_bud",
+    "particle": "manyblocks:blocks/small_amethyst_bud",
+    "cross": "manyblocks:blocks/small_amethyst_bud"
+  }
+}

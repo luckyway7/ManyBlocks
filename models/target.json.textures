@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "target_top": "target_top",
+        "target_side": "target_side"
+      },
+      "name": "default"
+    }
+  }
+}

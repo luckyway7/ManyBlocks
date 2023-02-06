@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/big_dripleaf_stem",
+  "textures": {
+    "all": "manyblocks:blocks/big_dripleaf_stem",
+    "particle": "manyblocks:blocks/big_dripleaf_stem",
+    "stem": "manyblocks:blocks/big_dripleaf_stem"
+  }
+}

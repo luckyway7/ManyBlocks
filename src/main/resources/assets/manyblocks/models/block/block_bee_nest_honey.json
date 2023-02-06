@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/bee_nest_bottom",
+    "up": "manyblocks:blocks/bee_nest_top",
+    "north": "manyblocks:blocks/bee_nest_front_honey",
+    "east": "manyblocks:blocks/bee_nest_side",
+    "south": "manyblocks:blocks/bee_nest_side",
+    "west": "manyblocks:blocks/bee_nest_side",
+    "particle": "manyblocks:blocks/bee_nest_bottom"
+  }
+}

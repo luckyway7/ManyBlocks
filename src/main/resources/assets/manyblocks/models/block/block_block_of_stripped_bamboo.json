@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/stripped_bamboo_block_top",
+    "up": "manyblocks:blocks/stripped_bamboo_block_top",
+    "north": "manyblocks:blocks/stripped_bamboo_block",
+    "east": "manyblocks:blocks/stripped_bamboo_block",
+    "south": "manyblocks:blocks/stripped_bamboo_block",
+    "west": "manyblocks:blocks/stripped_bamboo_block",
+    "particle": "manyblocks:blocks/stripped_bamboo_block_top"
+  }
+}

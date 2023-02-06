@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/acacia_stairs_inner"
+    },
+    "facing=west": {
+      "model": "minecraft:block/acacia_stairs_inner"
+    },
+    "facing=north": {
+      "model": "minecraft:block/acacia_stairs_inner"
+    },
+    "facing=south": {
+      "model": "minecraft:block/acacia_stairs_inner"
+    }
+  }
+}

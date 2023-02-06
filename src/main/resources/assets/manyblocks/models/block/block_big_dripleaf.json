@@ -1,0 +1,11 @@
+{
+  "parent": "manyblocks:custom/big_dripleaf",
+  "textures": {
+    "all": "manyblocks:blocks/big_dripleaf_top",
+    "particle": "manyblocks:blocks/big_dripleaf_top",
+    "side": "manyblocks:blocks/big_dripleaf_side",
+    "top": "manyblocks:blocks/big_dripleaf_top",
+    "tip": "manyblocks:blocks/big_dripleaf_tip",
+    "stem": "manyblocks:blocks/big_dripleaf_stem"
+  }
+}

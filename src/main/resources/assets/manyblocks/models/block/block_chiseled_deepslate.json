@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/chiseled_deepslate",
+    "up": "manyblocks:blocks/chiseled_deepslate",
+    "north": "manyblocks:blocks/chiseled_deepslate",
+    "east": "manyblocks:blocks/chiseled_deepslate",
+    "south": "manyblocks:blocks/chiseled_deepslate",
+    "west": "manyblocks:blocks/chiseled_deepslate",
+    "particle": "manyblocks:blocks/chiseled_deepslate"
+  }
+}

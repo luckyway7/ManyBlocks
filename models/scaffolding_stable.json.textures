@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "scaffolding_bottom": "scaffolding_bottom",
+        "scaffolding_top": "scaffolding_top",
+        "scaffolding_side": "scaffolding_side"
+      },
+      "name": "default"
+    }
+  }
+}

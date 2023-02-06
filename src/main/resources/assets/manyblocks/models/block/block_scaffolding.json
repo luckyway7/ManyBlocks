@@ -1,0 +1,10 @@
+{
+  "parent": "manyblocks:custom/scaffolding_stable",
+  "textures": {
+    "all": "manyblocks:blocks/scaffolding_top",
+    "particle": "manyblocks:blocks/scaffolding_top",
+    "scaffolding_bottom": "manyblocks:blocks/scaffolding_bottom",
+    "scaffolding_top": "manyblocks:blocks/scaffolding_top",
+    "scaffolding_side": "manyblocks:blocks/scaffolding_side"
+  }
+}

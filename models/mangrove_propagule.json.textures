@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "sapling": "mangrove_propagule"
+      },
+      "name": "default"
+    }
+  }
+}

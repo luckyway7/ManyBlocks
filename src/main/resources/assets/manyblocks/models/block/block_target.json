@@ -1,0 +1,9 @@
+{
+  "parent": "manyblocks:custom/target",
+  "textures": {
+    "all": "manyblocks:blocks/target_side",
+    "particle": "manyblocks:blocks/target_side",
+    "target_top": "manyblocks:blocks/target_top",
+    "target_side": "manyblocks:blocks/target_side"
+  }
+}

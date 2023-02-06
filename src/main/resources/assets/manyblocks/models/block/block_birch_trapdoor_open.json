@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_open",
+  "textures": {
+    "texture": "manyblocks:blocks/birch_trapdoor",
+    "particle": "manyblocks:blocks/birch_trapdoor"
+  }
+}

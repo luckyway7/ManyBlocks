@@ -1,0 +1,11 @@
+{
+  "parent": "manyblocks:custom/sculk_shrieker",
+  "textures": {
+    "all": "manyblocks:blocks/sculk_shrieker_bottom",
+    "particle": "manyblocks:blocks/sculk_shrieker_bottom",
+    "inner_top": "manyblocks:blocks/sculk_shrieker_inner_top",
+    "side": "manyblocks:blocks/sculk_shrieker_side",
+    "top": "manyblocks:blocks/sculk_shrieker_top",
+    "bottom": "manyblocks:blocks/sculk_shrieker_bottom"
+  }
+}

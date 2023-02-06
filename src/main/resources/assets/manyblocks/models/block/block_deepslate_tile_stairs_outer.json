@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "manyblocks:blocks/deepslate_tiles",
+    "top": "manyblocks:blocks/deepslate_tiles",
+    "side": "manyblocks:blocks/deepslate_tiles"
+  }
+}

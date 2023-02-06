@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "ancient_debris_side": "ancient_debris_side",
+        "ancient_debris_top": "ancient_debris_top"
+      },
+      "name": "default"
+    }
+  }
+}

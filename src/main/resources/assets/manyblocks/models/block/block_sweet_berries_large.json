@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/sweet_berries_large",
+  "textures": {
+    "all": "manyblocks:blocks/sweet_berry_bush_stage2",
+    "particle": "manyblocks:blocks/sweet_berry_bush_stage2",
+    "cross": "manyblocks:blocks/sweet_berry_bush_stage2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/budding_amethyst",
+  "textures": {
+    "all": "manyblocks:blocks/budding_amethyst",
+    "particle": "manyblocks:blocks/budding_amethyst",
+    "budding_amethyst": "manyblocks:blocks/budding_amethyst"
+  }
+}

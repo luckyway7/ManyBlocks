@@ -1,0 +1,9 @@
+{
+  "parent": "manyblocks:custom/verdant_froglight",
+  "textures": {
+    "all": "manyblocks:blocks/verdant_froglight_top",
+    "particle": "manyblocks:blocks/verdant_froglight_top",
+    "side": "manyblocks:blocks/verdant_froglight_side",
+    "top": "manyblocks:blocks/verdant_froglight_top"
+  }
+}

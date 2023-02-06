@@ -1,0 +1,11 @@
+{
+  "parent": "manyblocks:custom/stonecutter",
+  "textures": {
+    "all": "manyblocks:blocks/stonecutter_bottom",
+    "particle": "manyblocks:blocks/stonecutter_bottom",
+    "side": "manyblocks:blocks/stonecutter_side",
+    "top": "manyblocks:blocks/stonecutter_top",
+    "bottom": "manyblocks:blocks/stonecutter_bottom",
+    "saw": "manyblocks:blocks/stonecutter_saw"
+  }
+}

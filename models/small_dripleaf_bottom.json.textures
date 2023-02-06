@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "small_dripleaf_stem_bottom": "small_dripleaf_stem_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

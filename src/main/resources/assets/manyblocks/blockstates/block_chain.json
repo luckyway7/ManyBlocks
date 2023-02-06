@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_chain"
+    },
+    "facing=south": {
+      "model": "manyblocks:block_chain"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_chain"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_chain",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "manyblocks:block_chain",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "manyblocks:block_chain",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "manyblocks:block_chain",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

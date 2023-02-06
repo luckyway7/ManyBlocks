@@ -1,0 +1,6 @@
+{
+  "parent": "manyblocks:custom/template_soul_torch",
+  "textures": {
+    "torch": "manyblocks:blocks/soul_torch"
+  }
+}

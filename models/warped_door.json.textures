@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "warped_door_top": "warped_door_top",
+        "missing": "",
+        "warped_door_bottom": "warped_door_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

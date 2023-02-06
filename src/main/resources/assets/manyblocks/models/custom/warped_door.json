@@ -1,0 +1,145 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#warped_door_bottom"
+        },
+        "east": {
+          "uv": [
+            3,
+            0,
+            0,
+            16
+          ],
+          "texture": "#warped_door_bottom"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#warped_door_bottom"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#warped_door_bottom"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            13,
+            0,
+            16,
+            16
+          ],
+          "rotation": 270,
+          "texture": "#warped_door_bottom"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        16,
+        0
+      ],
+      "to": [
+        16,
+        32,
+        3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#warped_door_top"
+        },
+        "east": {
+          "uv": [
+            3,
+            0,
+            0,
+            16
+          ],
+          "texture": "#warped_door_top"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#warped_door_top"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#warped_door_top"
+        },
+        "up": {
+          "uv": [
+            16,
+            16,
+            13,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#warped_door_top"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        }
+      }
+    }
+  ]
+}

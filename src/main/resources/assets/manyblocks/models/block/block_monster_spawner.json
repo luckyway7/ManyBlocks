@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/spawner",
+    "up": "manyblocks:blocks/spawner",
+    "north": "manyblocks:blocks/spawner",
+    "east": "manyblocks:blocks/spawner",
+    "south": "manyblocks:blocks/spawner",
+    "west": "manyblocks:blocks/spawner",
+    "particle": "manyblocks:blocks/spawner"
+  }
+}

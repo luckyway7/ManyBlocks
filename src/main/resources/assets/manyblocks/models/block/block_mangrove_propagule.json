@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/mangrove_propagule",
+  "textures": {
+    "all": "manyblocks:blocks/mangrove_propagule",
+    "particle": "manyblocks:blocks/mangrove_propagule",
+    "sapling": "manyblocks:blocks/mangrove_propagule"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "redstone_ore",
+        "1": "diamond_ore",
+        "2": "emerald_ore",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

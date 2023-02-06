@@ -1,0 +1,7 @@
+{
+  "parent": "manyblocks:custom/chain",
+  "textures": {
+    "all": "manyblocks:blocks/chain",
+    "particle": "manyblocks:blocks/chain"
+  }
+}

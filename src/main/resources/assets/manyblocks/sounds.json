@@ -1,0 +1,111 @@
+{
+  "equip_netherite": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "manyblocks:equip_netherite1",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:equip_netherite2",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:equip_netherite3",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:equip_netherite4",
+        "stream": false
+      }
+    ]
+  },
+  "stripped_log": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "manyblocks:strip1",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:strip2",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:strip3",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:strip4",
+        "stream": false
+      }
+    ]
+  },
+  "sweet_berries_place": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "manyblocks:place1",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:place2",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:place3",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:place4",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:place5",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:place6",
+        "stream": false
+      }
+    ]
+  },
+  "wood_place": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "manyblocks:wood1",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:wood2",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:wood3",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:wood4",
+        "stream": false
+      }
+    ]
+  },
+  "respawn_anchor_charge": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "manyblocks:charge1",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:charge2",
+        "stream": false
+      },
+      {
+        "name": "manyblocks:charge3",
+        "stream": false
+      }
+    ]
+  }
+}

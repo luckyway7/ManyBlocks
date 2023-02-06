@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_rail_lucky_way"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_rail_lucky_way"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_rail_lucky_way",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_rail_lucky_way",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_rail_lucky_way",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "manyblocks:block_rail_lucky_way",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "manyblocks:block_rail_lucky_way",
+      "x": 90
+    }
+  }
+}

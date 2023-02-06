@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "manyblocks:blocks/crimson_planks",
+    "particle": "manyblocks:blocks/crimson_planks"
+  }
+}

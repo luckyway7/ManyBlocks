@@ -1,0 +1,9 @@
+{
+  "parent": "manyblocks:custom/pearlescent_froglight",
+  "textures": {
+    "all": "manyblocks:blocks/pearlescent_froglight_top",
+    "particle": "manyblocks:blocks/pearlescent_froglight_top",
+    "side": "manyblocks:blocks/pearlescent_froglight_side",
+    "top": "manyblocks:blocks/pearlescent_froglight_top"
+  }
+}

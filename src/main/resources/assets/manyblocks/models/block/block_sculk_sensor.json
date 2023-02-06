@@ -1,0 +1,11 @@
+{
+  "parent": "manyblocks:custom/sculk_sensor_inactive",
+  "textures": {
+    "all": "manyblocks:blocks/sculk_sensor_bottom",
+    "particle": "manyblocks:blocks/sculk_sensor_bottom",
+    "sculk_sensor_side": "manyblocks:blocks/sculk_sensor_side",
+    "sculk_sensor_top": "manyblocks:blocks/sculk_sensor_top",
+    "sculk_sensor_bottom": "manyblocks:blocks/sculk_sensor_bottom",
+    "sculk_sensor_tendril_inactive": "manyblocks:blocks/sculk_sensor_tendril_inactive"
+  }
+}

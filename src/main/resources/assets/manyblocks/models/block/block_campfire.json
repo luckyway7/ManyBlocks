@@ -1,0 +1,10 @@
+{
+  "parent": "manyblocks:custom/campfire_fire",
+  "textures": {
+    "all": "manyblocks:blocks/campfire_log",
+    "particle": "manyblocks:blocks/campfire_log",
+    "lit_log": "manyblocks:blocks/campfire_log_lit",
+    "log": "manyblocks:blocks/campfire_log",
+    "fire": "manyblocks:blocks/campfire_fire"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "manyblocks:custom/spore_blossom",
+  "textures": {
+    "all": "manyblocks:blocks/spore_blossom",
+    "particle": "manyblocks:blocks/spore_blossom",
+    "base": "manyblocks:blocks/spore_blossom_base",
+    "flower": "manyblocks:blocks/spore_blossom"
+  }
+}

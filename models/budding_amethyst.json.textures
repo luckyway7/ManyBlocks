@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "budding_amethyst": "budding_amethyst"
+      },
+      "name": "default"
+    }
+  }
+}

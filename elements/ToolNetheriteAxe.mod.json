@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_axe",
+    "customModelName": "Normal",
+    "name": "Netherite Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TabManyBlocks"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 13.0,
+    "usageCount": 2031,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

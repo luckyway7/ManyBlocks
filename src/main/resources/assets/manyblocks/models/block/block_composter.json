@@ -1,0 +1,11 @@
+{
+  "parent": "manyblocks:custom/composter",
+  "textures": {
+    "all": "manyblocks:blocks/composter_side",
+    "particle": "manyblocks:blocks/composter_side",
+    "side": "manyblocks:blocks/composter_side",
+    "top": "manyblocks:blocks/composter_top",
+    "bottom": "manyblocks:blocks/composter_bottom",
+    "inside": "manyblocks:blocks/composter_bottom"
+  }
+}

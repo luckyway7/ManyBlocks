@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_amethyst_cluster"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_amethyst_cluster",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "manyblocks:block_amethyst_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_amethyst_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_amethyst_cluster",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up": {
+      "model": "manyblocks:block_amethyst_cluster"
+    },
+    "facing=down": {
+      "model": "manyblocks:block_amethyst_cluster",
+      "x": 180
+    }
+  }
+}

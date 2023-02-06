@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "stem": "big_dripleaf_stem"
+      },
+      "name": "default"
+    }
+  }
+}

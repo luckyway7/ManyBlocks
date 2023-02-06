@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/lightning_rod",
+  "textures": {
+    "all": "manyblocks:blocks/lightning_rod",
+    "particle": "manyblocks:blocks/lightning_rod",
+    "texture": "manyblocks:blocks/lightning_rod"
+  }
+}

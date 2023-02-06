@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "spyglass": "spyglass_model"
+      },
+      "name": "default"
+    }
+  }
+}

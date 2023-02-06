@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "manyblocks:blocks/cobbled_deepslate",
+    "particle": "manyblocks:blocks/cobbled_deepslate"
+  }
+}

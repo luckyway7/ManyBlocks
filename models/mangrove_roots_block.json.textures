@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "mangrove_roots_top": "mangrove_roots_top",
+        "mangrove_roots_side": "mangrove_roots_side"
+      },
+      "name": "default"
+    }
+  }
+}

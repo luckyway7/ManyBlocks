@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "manyblocks:block_polished_deepslate_slab_double"
+    }
+  }
+}

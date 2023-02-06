@@ -1,0 +1,6 @@
+{
+  "parent": "manyblocks:custom/spyglass_in_hand",
+  "textures": {
+    "spyglass": "manyblocks:blocks/spyglass_model"
+  }
+}

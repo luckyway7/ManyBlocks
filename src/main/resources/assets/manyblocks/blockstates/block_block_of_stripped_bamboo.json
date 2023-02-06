@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_block_of_stripped_bamboo"
+    },
+    "facing=south": {
+      "model": "manyblocks:block_block_of_stripped_bamboo"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_block_of_stripped_bamboo"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_block_of_stripped_bamboo",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "manyblocks:block_block_of_stripped_bamboo",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "manyblocks:block_block_of_stripped_bamboo",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "manyblocks:block_block_of_stripped_bamboo",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

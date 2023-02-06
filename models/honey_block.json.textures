@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "honey_block_top": "honey_block_top",
+        "honey_block_bottom": "honey_block_bottom",
+        "honey_block_side": "honey_block_side"
+      },
+      "name": "default"
+    }
+  }
+}

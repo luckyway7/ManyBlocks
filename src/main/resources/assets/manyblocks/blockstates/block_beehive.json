@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_beehive"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_beehive"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_beehive",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_beehive",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_beehive",
+      "y": 270
+    }
+  }
+}

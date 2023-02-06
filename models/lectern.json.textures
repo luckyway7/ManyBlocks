@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "lectern_top": "lectern_top",
+        "oak_planks": "oak_planks",
+        "lectern_front": "lectern_front",
+        "lectern_base": "lectern_base",
+        "lectern_sides": "lectern_sides"
+      },
+      "name": "default"
+    }
+  }
+}

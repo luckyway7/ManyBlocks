@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "glow_lichen": "glow_lichen"
+      },
+      "name": "default"
+    }
+  }
+}

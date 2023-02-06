@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "composter_side",
+        "top": "composter_top",
+        "bottom": "composter_bottom",
+        "inside": "composter_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

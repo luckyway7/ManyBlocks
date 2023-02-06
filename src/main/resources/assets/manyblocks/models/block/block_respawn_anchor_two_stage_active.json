@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/respawn_anchor_bottom",
+    "up": "manyblocks:blocks/respawn_anchor_top",
+    "north": "manyblocks:blocks/respawn_anchor_side2",
+    "east": "manyblocks:blocks/respawn_anchor_side2",
+    "south": "manyblocks:blocks/respawn_anchor_side2",
+    "west": "manyblocks:blocks/respawn_anchor_side2",
+    "particle": "manyblocks:blocks/respawn_anchor_bottom"
+  }
+}

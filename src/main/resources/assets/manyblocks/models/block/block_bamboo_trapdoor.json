@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_bottom",
+  "textures": {
+    "texture": "manyblocks:blocks/bamboo_trapdoor",
+    "particle": "manyblocks:blocks/bamboo_trapdoor"
+  }
+}

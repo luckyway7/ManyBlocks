@@ -1,0 +1,9 @@
+{
+  "parent": "manyblocks:custom/ancient_debris",
+  "textures": {
+    "all": "manyblocks:blocks/ancient_debris_side",
+    "particle": "manyblocks:blocks/ancient_debris_side",
+    "ancient_debris_side": "manyblocks:blocks/ancient_debris_side",
+    "ancient_debris_top": "manyblocks:blocks/ancient_debris_top"
+  }
+}

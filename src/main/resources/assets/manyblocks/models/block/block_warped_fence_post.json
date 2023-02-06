@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "manyblocks:blocks/warped_planks",
+    "particle": "manyblocks:blocks/warped_planks"
+  }
+}

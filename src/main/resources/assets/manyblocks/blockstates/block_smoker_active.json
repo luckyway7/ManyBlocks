@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_smoker_active"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_smoker_active"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_smoker_active",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_smoker_active",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_smoker_active",
+      "y": 270
+    }
+  }
+}

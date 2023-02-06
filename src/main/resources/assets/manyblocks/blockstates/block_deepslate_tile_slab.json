@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "manyblocks:block_deepslate_tile_slab"
+    },
+    "half=top,variant=default": {
+      "model": "manyblocks:block_deepslate_tile_slab_top"
+    }
+  }
+}

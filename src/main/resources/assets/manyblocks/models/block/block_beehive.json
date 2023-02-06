@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/beehive_end",
+    "up": "manyblocks:blocks/beehive_end",
+    "north": "manyblocks:blocks/beehive_front",
+    "east": "manyblocks:blocks/beehive_side",
+    "south": "manyblocks:blocks/beehive_side",
+    "west": "manyblocks:blocks/beehive_side",
+    "particle": "manyblocks:blocks/beehive_end"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/conduit",
+  "textures": {
+    "all": "manyblocks:blocks/conduit",
+    "particle": "manyblocks:blocks/conduit",
+    "0": "manyblocks:blocks/conduit"
+  }
+}

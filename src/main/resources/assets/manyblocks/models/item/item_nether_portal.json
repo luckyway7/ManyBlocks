@@ -1,0 +1,6 @@
+{
+  "parent": "manyblocks:custom/nether_portal_ew",
+  "textures": {
+    "portal": "manyblocks:blocks/nether_portal"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "manyblocks:block_deepslate_tile_slab_double"
+    }
+  }
+}

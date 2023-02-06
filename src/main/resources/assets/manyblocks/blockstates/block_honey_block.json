@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_honey_block"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_honey_block"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_honey_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_honey_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_honey_block",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "manyblocks:block_honey_block",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "manyblocks:block_honey_block",
+      "x": 90
+    }
+  }
+}

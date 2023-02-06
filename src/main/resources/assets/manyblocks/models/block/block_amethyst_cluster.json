@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/amethyst_cluster",
+  "textures": {
+    "all": "manyblocks:blocks/amethyst_cluster",
+    "particle": "manyblocks:blocks/amethyst_cluster",
+    "cross": "manyblocks:blocks/amethyst_cluster"
+  }
+}

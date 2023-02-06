@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "big_dripleaf_side",
+        "top": "big_dripleaf_top",
+        "tip": "big_dripleaf_tip",
+        "stem": "big_dripleaf_stem"
+      },
+      "name": "default"
+    }
+  }
+}

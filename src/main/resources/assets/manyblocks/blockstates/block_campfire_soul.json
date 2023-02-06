@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_campfire_soul"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_campfire_soul"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_campfire_soul",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_campfire_soul",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_campfire_soul",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_hoe",
+    "customModelName": "Normal",
+    "name": "Netherite Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TabManyBlocks"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 2031,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

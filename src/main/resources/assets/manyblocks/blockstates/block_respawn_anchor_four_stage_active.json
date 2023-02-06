@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_respawn_anchor_four_stage_active"
+    }
+  }
+}

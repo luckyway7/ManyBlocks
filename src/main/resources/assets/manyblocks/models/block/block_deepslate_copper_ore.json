@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/deepslate_copper_ore",
+    "up": "manyblocks:blocks/deepslate_copper_ore",
+    "north": "manyblocks:blocks/deepslate_copper_ore",
+    "east": "manyblocks:blocks/deepslate_copper_ore",
+    "south": "manyblocks:blocks/deepslate_copper_ore",
+    "west": "manyblocks:blocks/deepslate_copper_ore",
+    "particle": "manyblocks:blocks/deepslate_copper_ore"
+  }
+}

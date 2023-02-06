@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_loom"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_loom"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_loom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_loom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_loom",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/shroomlight",
+    "up": "manyblocks:blocks/shroomlight",
+    "north": "manyblocks:blocks/shroomlight",
+    "east": "manyblocks:blocks/shroomlight",
+    "south": "manyblocks:blocks/shroomlight",
+    "west": "manyblocks:blocks/shroomlight",
+    "particle": "manyblocks:blocks/shroomlight"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_soul_torch_wall"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_soul_torch_wall"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_soul_torch_wall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_soul_torch_wall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_soul_torch_wall",
+      "y": 270
+    }
+  }
+}

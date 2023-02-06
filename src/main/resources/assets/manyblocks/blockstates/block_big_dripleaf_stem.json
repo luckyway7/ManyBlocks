@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_big_dripleaf_stem"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_big_dripleaf_stem"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_big_dripleaf_stem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_big_dripleaf_stem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_big_dripleaf_stem",
+      "y": 270
+    }
+  }
+}

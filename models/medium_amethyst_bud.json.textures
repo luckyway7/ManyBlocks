@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cross": "medium_amethyst_bud"
+      },
+      "name": "default"
+    }
+  }
+}

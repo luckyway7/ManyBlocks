@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "manyblocks:block_polished_deepslate_slab"
+    },
+    "half=top,variant=default": {
+      "model": "manyblocks:block_polished_deepslate_slab_top"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/blast_furnace_top",
+    "up": "manyblocks:blocks/blast_furnace_top",
+    "north": "manyblocks:blocks/blast_furnace_front",
+    "east": "manyblocks:blocks/blast_furnace_side",
+    "south": "manyblocks:blocks/blast_furnace_side",
+    "west": "manyblocks:blocks/blast_furnace_side",
+    "particle": "manyblocks:blocks/blast_furnace_top"
+  }
+}

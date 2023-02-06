@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "base": "spore_blossom_base",
+        "flower": "spore_blossom"
+      },
+      "name": "default"
+    }
+  }
+}

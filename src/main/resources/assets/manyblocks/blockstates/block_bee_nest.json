@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "manyblocks:block_bee_nest"
+    },
+    "facing=north": {
+      "model": "manyblocks:block_bee_nest"
+    },
+    "facing=east": {
+      "model": "manyblocks:block_bee_nest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "manyblocks:block_bee_nest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "manyblocks:block_bee_nest",
+      "y": 270
+    }
+  }
+}

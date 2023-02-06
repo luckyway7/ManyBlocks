@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "inner_top": "sculk_shrieker_inner_top",
+        "side": "sculk_shrieker_side",
+        "top": "sculk_shrieker_top",
+        "bottom": "sculk_shrieker_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

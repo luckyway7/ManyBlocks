@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_open",
+  "textures": {
+    "texture": "manyblocks:blocks/crimson_trapdoor",
+    "particle": "manyblocks:blocks/crimson_trapdoor"
+  }
+}

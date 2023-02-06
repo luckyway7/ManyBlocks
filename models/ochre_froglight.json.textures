@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "ochre_froglight_side",
+        "top": "ochre_froglight_top"
+      },
+      "name": "default"
+    }
+  }
+}

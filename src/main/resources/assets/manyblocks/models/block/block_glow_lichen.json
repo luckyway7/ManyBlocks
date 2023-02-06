@@ -1,0 +1,8 @@
+{
+  "parent": "manyblocks:custom/glow_lichen",
+  "textures": {
+    "all": "manyblocks:blocks/glow_lichen",
+    "particle": "manyblocks:blocks/glow_lichen",
+    "glow_lichen": "manyblocks:blocks/glow_lichen"
+  }
+}

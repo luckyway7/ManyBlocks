@@ -1,0 +1,2052 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlockTargetArrowOnCollides",
+      "type": "procedure",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_target_arrow_on_collides",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockTarget",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_target"
+    },
+    {
+      "name": "BlockChain",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_chain"
+    },
+    {
+      "name": "TabManyBlocks",
+      "type": "tab",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tab_many_blocks"
+    },
+    {
+      "name": "BlockManyBlocksIcon",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_many_blocks_icon"
+    },
+    {
+      "name": "BlockHoneyBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_honey_block"
+    },
+    {
+      "name": "ItemAmethystShard",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_amethyst_shard"
+    },
+    {
+      "name": "BlockAmethystBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_amethyst_block"
+    },
+    {
+      "name": "BlockAmethystBudding",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_amethyst_budding"
+    },
+    {
+      "name": "BlockAmethystCluster",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_amethyst_cluster"
+    },
+    {
+      "name": "BlockLargeAmethystBud",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_large_amethyst_bud"
+    },
+    {
+      "name": "BlockMediumAmethystBud",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_medium_amethyst_bud"
+    },
+    {
+      "name": "BlockSmallAmethystBud",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_small_amethyst_bud"
+    },
+    {
+      "name": "BlockLightningRod",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_lightning_rod"
+    },
+    {
+      "name": "BlockOchreFroglight",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_ochre_froglight"
+    },
+    {
+      "name": "BlockVerdantFroglight",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_verdant_froglight"
+    },
+    {
+      "name": "BlockPearlescentFroglight",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_pearlescent_froglight"
+    },
+    {
+      "name": "ItemEchoShard",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_echo_shard"
+    },
+    {
+      "name": "ItemHeartOfTheSea",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_heart_of_the_sea"
+    },
+    {
+      "name": "ItemNetheriteIngot",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_netherite_ingot"
+    },
+    {
+      "name": "ArmorNetheriteArmor",
+      "type": "armor",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_netherite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RecipeNetheriteHelmet",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_netherite_helmet"
+    },
+    {
+      "name": "RecipeNetheriteChestplate",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_netherite_chestplate"
+    },
+    {
+      "name": "RecipeNetheriteLeggings",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_netherite_leggings"
+    },
+    {
+      "name": "RecipeNetheriteBoots",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_netherite_boots"
+    },
+    {
+      "name": "ToolNetheriteAxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_netherite_axe"
+    },
+    {
+      "name": "ProcedureSpyglassStartUsing",
+      "type": "procedure",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "procedure_spyglass_start_using",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ItemSpyglass",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_spyglass"
+    },
+    {
+      "name": "BlockMangroveRoots",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_mangrove_roots"
+    },
+    {
+      "name": "BlockSporeBlossom",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_spore_blossom"
+    },
+    {
+      "name": "BlockMangrovePropagule",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_mangrove_propagule"
+    },
+    {
+      "name": "BlockAncientDebris",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_ancient_debris"
+    },
+    {
+      "name": "ItemNetheriteScrap",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_netherite_scrap"
+    },
+    {
+      "name": "RecipeNetheriteIngot",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_netherite_ingot"
+    },
+    {
+      "name": "BlockSculkCatalyst",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sculk_catalyst"
+    },
+    {
+      "name": "BlockSculkShrieker",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sculk_shrieker"
+    },
+    {
+      "name": "BlockBigDripleafStem",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_big_dripleaf_stem"
+    },
+    {
+      "name": "BlockBigDripleaf",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_big_dripleaf"
+    },
+    {
+      "name": "BlockSmallDripleaf",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_small_dripleaf"
+    },
+    {
+      "name": "BlockSmallDripleafStem",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_small_dripleaf_stem"
+    },
+    {
+      "name": "ProcedureBlockBigDripleafBlockPlace",
+      "type": "procedure",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "procedure_block_big_dripleaf_block_place",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ProcedureBlockBigDripleafBlockDestroyed",
+      "type": "procedure",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "procedure_block_big_dripleaf_block_destroyed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockStrippedOakLog",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_oak_log"
+    },
+    {
+      "name": "BlockStrippedSpruceLog",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_spruce_log"
+    },
+    {
+      "name": "BlockStrippedBirchLog",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_birch_log"
+    },
+    {
+      "name": "BlockStrippedJungleLog",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_jungle_log"
+    },
+    {
+      "name": "BlockStrippedAcaciaLog",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_acacia_log"
+    },
+    {
+      "name": "BlockStrippedDarkOakLog",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_dark_oak_log"
+    },
+    {
+      "name": "BlockStrippedMangroveLog",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stripped_mangrove_log"
+    },
+    {
+      "name": "BlockBlockOfStrippedBamboo",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_block_of_stripped_bamboo"
+    },
+    {
+      "name": "ProcedureLogStripped",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "procedure_log_stripped",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockSweetBerries",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sweet_berries"
+    },
+    {
+      "name": "BlockSweetBerriesSmall",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sweet_berries_small"
+    },
+    {
+      "name": "BlockSweetBerriesMedium",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sweet_berries_medium"
+    },
+    {
+      "name": "BlockSweetBerriesLarge",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sweet_berries_large"
+    },
+    {
+      "name": "FoodSweetBerries",
+      "type": "food",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "food_sweet_berries"
+    },
+    {
+      "name": "ItemRecoveryCompass",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_recovery_compass"
+    },
+    {
+      "name": "ArmorTurtle",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_turtle",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "ItemPowderSnowBucket",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_powder_snow_bucket"
+    },
+    {
+      "name": "ItemPowderSnowBucketRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_powder_snow_bucket_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ToolNetheritePickaxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_netherite_pickaxe"
+    },
+    {
+      "name": "ToolNetheriteHoe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_netherite_hoe"
+    },
+    {
+      "name": "ToolNetheriteShovel",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_netherite_shovel"
+    },
+    {
+      "name": "ToolNetheriteSword",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tool_netherite_sword"
+    },
+    {
+      "name": "BlockSoulTorch",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_soul_torch"
+    },
+    {
+      "name": "ItemSoulTorchBlockOnRightClick",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_soul_torch_block_on_right_click",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockSoulTorchWall",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_soul_torch_wall"
+    },
+    {
+      "name": "ItemSoulTorch",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_soul_torch"
+    },
+    {
+      "name": "ItemPhantomMembrane",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_phantom_membrane"
+    },
+    {
+      "name": "BlockLectern",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_lectern"
+    },
+    {
+      "name": "BlockReinforcedDeepslate",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_reinforced_deepslate"
+    },
+    {
+      "name": "BlockDeepslateGoldOre",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_gold_ore"
+    },
+    {
+      "name": "BlockDeepslateIronOre",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_iron_ore"
+    },
+    {
+      "name": "BlockDeepslateCoalOre",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_coal_ore"
+    },
+    {
+      "name": "BlockDeepslateDiamondOre",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_diamond_ore"
+    },
+    {
+      "name": "BlockDeepslateRedstoneOre",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_redstone_ore"
+    },
+    {
+      "name": "BlockDeepslateLapisLazuliOre",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_lapis_lazuli_ore"
+    },
+    {
+      "name": "BlockDeepslateEmeraldOre",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_emerald_ore"
+    },
+    {
+      "name": "BlockDeepslateCopperOre",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_copper_ore"
+    },
+    {
+      "name": "BlockDeepslate",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate"
+    },
+    {
+      "name": "BlockDeepslateBricks",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_bricks"
+    },
+    {
+      "name": "BlockDeepslateTiles",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_tiles"
+    },
+    {
+      "name": "BlockInfestedDeepslate",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_infested_deepslate"
+    },
+    {
+      "name": "BlockCobbledDeepslate",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cobbled_deepslate"
+    },
+    {
+      "name": "BlockDeepslateBrickSlab",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_brick_slab"
+    },
+    {
+      "name": "BlockCobbledDeepslateSlab",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cobbled_deepslate_slab"
+    },
+    {
+      "name": "BlockCobbledDeepslateStairs",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cobbled_deepslate_stairs"
+    },
+    {
+      "name": "BlockCobbledDeepslateWall",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cobbled_deepslate_wall"
+    },
+    {
+      "name": "BlockChiseledDeepslate",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_chiseled_deepslate"
+    },
+    {
+      "name": "BlockPolishedDeepslate",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_polished_deepslate"
+    },
+    {
+      "name": "BlockPolishedDeepslateSlab",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_polished_deepslate_slab"
+    },
+    {
+      "name": "BlockPolishedDeepslateStairs",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_polished_deepslate_stairs"
+    },
+    {
+      "name": "BlockPolishedDeepslateWall",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_polished_deepslate_wall"
+    },
+    {
+      "name": "BlockDeepslateBrickStairs",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_brick_stairs"
+    },
+    {
+      "name": "BlockDeepslateBrickWall",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_brick_wall"
+    },
+    {
+      "name": "BlockDeepslateTileSlab",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_tile_slab"
+    },
+    {
+      "name": "BlockDeepslateTileStairs",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_tile_stairs"
+    },
+    {
+      "name": "BlockDeepslateTileWall",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_deepslate_tile_wall"
+    },
+    {
+      "name": "BlockCrackedDeepslateBricks",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cracked_deepslate_bricks"
+    },
+    {
+      "name": "BlockCrackedDeepslateTiles",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cracked_deepslate_tiles"
+    },
+    {
+      "name": "BlockSpruceTrapdoor",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_spruce_trapdoor"
+    },
+    {
+      "name": "BlockBirchTrapdoor",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_birch_trapdoor"
+    },
+    {
+      "name": "BlockJungleTrapdoor",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_jungle_trapdoor"
+    },
+    {
+      "name": "BlockAcaciaTrapdoor",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_acacia_trapdoor"
+    },
+    {
+      "name": "BlockDarkOakTrapdoor",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_dark_oak_trapdoor"
+    },
+    {
+      "name": "BlockMangroveTrapdoor",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_mangrove_trapdoor"
+    },
+    {
+      "name": "BlockBambooTrapdoor",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_bamboo_trapdoor"
+    },
+    {
+      "name": "BlockWarpedTrapdoor",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_warped_trapdoor"
+    },
+    {
+      "name": "BlockCrimsonTrapdoor",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_crimson_trapdoor"
+    },
+    {
+      "name": "BlockMangroveFence",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_mangrove_fence"
+    },
+    {
+      "name": "BlockBambooFence",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_bamboo_fence"
+    },
+    {
+      "name": "BlockWarpedFence",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_warped_fence"
+    },
+    {
+      "name": "BlockCrimsonFence",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_crimson_fence"
+    },
+    {
+      "name": "BlockPumpkin",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_pumpkin"
+    },
+    {
+      "name": "BlockBlockOfNetherite",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_block_of_netherite"
+    },
+    {
+      "name": "BlockSculkSensor",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sculk_sensor"
+    },
+    {
+      "name": "BlockSculkSensorActive",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_sculk_sensor_active"
+    },
+    {
+      "name": "ItemNetherPortal",
+      "type": "item",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_nether_portal"
+    },
+    {
+      "name": "BlockMonsterSpawner",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_monster_spawner"
+    },
+    {
+      "name": "BlockCampfire",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_campfire"
+    },
+    {
+      "name": "BlockCampfireSoul",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_campfire_soul"
+    },
+    {
+      "name": "BlockBarrel",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_barrel"
+    },
+    {
+      "name": "BlockConduit",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_conduit"
+    },
+    {
+      "name": "BlockLodestone",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_lodestone"
+    },
+    {
+      "name": "BlockBarrelOpen",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_barrel_open"
+    },
+    {
+      "name": "BlockStonecutter",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_stonecutter"
+    },
+    {
+      "name": "BlockCartographyTable",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cartography_table"
+    },
+    {
+      "name": "BlockScaffolding",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_scaffolding"
+    },
+    {
+      "name": "BlockComposter",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_composter"
+    },
+    {
+      "name": "BlockSmithingTable",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_smithing_table"
+    },
+    {
+      "name": "BlockBlastFurnace",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_blast_furnace"
+    },
+    {
+      "name": "BlockBlastFurnaceUse",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_blast_furnace_use"
+    },
+    {
+      "name": "BlockFletchingTable",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_fletching_table"
+    },
+    {
+      "name": "BlockLantern",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_lantern"
+    },
+    {
+      "name": "BlockSoulLantern",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_soul_lantern"
+    },
+    {
+      "name": "BlockLanternUp",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_lantern_up"
+    },
+    {
+      "name": "BlockSoulLanternUp",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_soul_lantern_up"
+    },
+    {
+      "name": "BlockLanternBlockAdded",
+      "type": "procedure",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_lantern_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockSoulLanternBlockAdded",
+      "type": "procedure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_soul_lantern_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockSmoker",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_smoker"
+    },
+    {
+      "name": "BlockSmokerActive",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_smoker_active"
+    },
+    {
+      "name": "BlockBeehive",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_beehive"
+    },
+    {
+      "name": "BlockBeehiveHoney",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_beehive_honey"
+    },
+    {
+      "name": "BlockShroomlight",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_shroomlight"
+    },
+    {
+      "name": "BlockCryingObsidian",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_crying_obsidian"
+    },
+    {
+      "name": "BlockBeeNest",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_bee_nest"
+    },
+    {
+      "name": "BlockBeeNestHoney",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_bee_nest_honey"
+    },
+    {
+      "name": "BlockLoom",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_loom"
+    },
+    {
+      "name": "BlockRespawnAnchor",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_respawn_anchor"
+    },
+    {
+      "name": "BlockRespawnAnchorOneStageActive",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_respawn_anchor_one_stage_active"
+    },
+    {
+      "name": "BlockRespawnAnchorTwoStageActive",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_respawn_anchor_two_stage_active"
+    },
+    {
+      "name": "BlockRespawnAnchorThreeStageActive",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_respawn_anchor_three_stage_active"
+    },
+    {
+      "name": "BlockRespawnAnchorFourStageActive",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_respawn_anchor_four_stage_active"
+    },
+    {
+      "name": "BlockRespawnAnchorOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_respawn_anchor_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockGlowLichen",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_glow_lichen"
+    },
+    {
+      "name": "AmethystUpdateTick",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlockRailLuckyWay",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_rail_lucky_way"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "equip_netherite",
+      "files": [
+        "equip_netherite1",
+        "equip_netherite2",
+        "equip_netherite3",
+        "equip_netherite4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "stripped_log",
+      "files": [
+        "strip1",
+        "strip2",
+        "strip3",
+        "strip4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "sweet_berries_place",
+      "files": [
+        "place1",
+        "place2",
+        "place3",
+        "place4",
+        "place5",
+        "place6"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "wood_place",
+      "files": [
+        "wood1",
+        "wood2",
+        "wood3",
+        "wood4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "respawn_anchor_charge",
+      "files": [
+        "charge1",
+        "charge2",
+        "charge3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "tile.block_block_of_stripped_bamboo.name": "Block of Stripped Bamboo",
+      "tile.block_cracked_deepslate_bricks.name": "Cracked Deepslate Bricks",
+      "tile.block_campfire.name": "Campfire",
+      "tile.block_monster_spawner.name": "Monster Spawner",
+      "tile.block_smoker_active.name": "Smoker Active",
+      "tile.block_small_amethyst_bud.name": "Малый аметистовый бутон",
+      "tile.block_deepslate_tile_stairs.name": "Deepslate Tile Stairs",
+      "subtitles.respawn_anchor_charge": "",
+      "tile.block_stripped_jungle_log.name": "Stripped Jungle Log",
+      "tile.block_blast_furnace_use.name": "Blast Furnace Use",
+      "tile.block_deepslate_bricks.name": "Deepslate Bricks",
+      "subtitles.stripped_log": "",
+      "tile.block_ochre_froglight.name": "Ochre Froglight",
+      "tile.block_big_dripleaf.name": "Big Dripleaf",
+      "tile.block_blast_furnace.name": "Blast Furnace",
+      "tile.block_scaffolding.name": "Scaffolding",
+      "tile.block_verdant_froglight.name": "Verdant Froglight",
+      "item.item_netherite_scrap.name": "Netherite Scrap",
+      "tile.block_lightning_rod.name": "Громоотвод",
+      "tile.block_birch_trapdoor.name": "Birch Trapdoor",
+      "tile.block_soul_lantern_up.name": "Block Soul Lantern Up",
+      "item.item_heart_of_the_sea.name": "Heart of the Sea",
+      "item.item_soul_torch.name": "Soul Torch",
+      "tile.block_bee_nest_honey.name": "Bee Nest Honey",
+      "item.armor_netherite_armorbody.name": "Netherite Chestplate",
+      "item.tool_netherite_pickaxe.name": "Netherite Pickaxe",
+      "tile.block_polished_deepslate_stairs.name": "Polished Deepslate Stairs",
+      "subtitles.sweet_berries_place": "",
+      "tile.block_sculk_sensor.name": "Sculk Sensor",
+      "tile.block_deepslate.name": "Deepslate",
+      "item.tool_netherite_sword.name": "Netherite Sword",
+      "subtitles.equip_netherite": "",
+      "tile.block_sculk_sensor_active.name": "Sculk Sensor Active",
+      "tile.block_stripped_birch_log.name": "Stripped Birch Log",
+      "tile.block_crying_obsidian.name": "Crying Obsidian",
+      "tile.block_deepslate_coal_ore.name": "Deepslate Coal Ore",
+      "item.food_sweet_berries.name": "Sweet Berries",
+      "tile.block_sweet_berries.name": "Sweet Berries",
+      "tile.block_honey_block.name": "Блок мёда",
+      "tile.block_sweet_berries_medium.name": "Sweet Berries Medium",
+      "tile.block_conduit.name": "Block Conduit",
+      "tile.block_composter.name": "Composter",
+      "tile.pumpkin.name": "Carved Pumpkin",
+      "tile.block_deepslate_lapis_lazuli_ore.name": "Deepslate Lapis Lazuli Ore",
+      "tile.block_reinforced_deepslate.name": "Reinforced Deepslate",
+      "tile.block_cobbled_deepslate_slab.name": "Cobbled Deepslate Slab",
+      "tile.block_deepslate_brick_wall.name": "Deepslate Brick Wall",
+      "tile.block_respawn_anchor.name": "Respawn Anchor",
+      "item.item_powder_snow_bucket.name": "Powder Snow Bucket",
+      "tile.block_deepslate_emerald_ore.name": "Deepslate Emerald Ore",
+      "tile.block_soul_torch_wall.name": "Soul Torch Wall",
+      "tile.block_deepslate_tiles.name": "Deepslate Tiles",
+      "tile.block_deepslate_brick_stairs.name": "Deepslate Brick Stairs",
+      "tile.block_stripped_mangrove_log.name": "Stripped Mangrove Log",
+      "tile.block_cobbled_deepslate_stairs.name": "Cobbled Deepslate Stairs",
+      "item.item_echo_shard.name": "Echo Shard",
+      "tile.block_deepslate_copper_ore.name": "Deepslate Copper Ore",
+      "tile.block_big_dripleaf_stem.name": "Big Dripleaf Stem",
+      "tile.block_amethyst_budding.name": "Цветущий аметист",
+      "item.armor_turtleboots.name": "Armor Turtle Boots",
+      "item.item_amethyst_shard.name": "Осколок аметиста",
+      "item.item_netherite_ingot.name": "Netherite Ingot",
+      "tile.block_lodestone.name": "Lodestone",
+      "tile.block_beehive.name": "Beehive",
+      "tile.block_glow_lichen.name": "Glow Lichen",
+      "tile.block_stripped_dark_oak_log.name": "Stripped Dark Oak Log",
+      "tile.block_sweet_berries_large.name": "Sweet Berries Large",
+      "item.armor_turtlebody.name": "Armor Turtle Body",
+      "tile.block_polished_deepslate_wall.name": "Polished Deepslate Wall",
+      "tile.block_infested_deepslate.name": "Infested Deepslate",
+      "tile.block_lantern_up.name": "Lantern Up",
+      "tile.block_warped_fence.name": "Warped Fence",
+      "item.armor_netherite_armorlegs.name": "Netherite Leggings",
+      "tile.block_stripped_acacia_log.name": "Stripped Acacia Log",
+      "tile.block_mangrove_roots.name": "Mangrove Roots",
+      "tile.block_deepslate_gold_ore.name": "Deepslate Gold Ore",
+      "tile.block_acacia_trapdoor.name": "Acacia Trapdoor",
+      "tile.block_sculk_shrieker.name": "Sculk Shrieker",
+      "tile.block_cartography_table.name": "Cartography",
+      "tile.block_polished_deepslate_slab.name": "Polished Deepslate Slab",
+      "tile.block_spore_blossom.name": "Spore Blossom",
+      "item.armor_netherite_armorboots.name": "Netherite Boots",
+      "tile.block_respawn_anchor_three_stage_active.name": "Respawn Anchor Three Stage Active",
+      "tile.block_deepslate_iron_ore.name": "Deepslate Iron Ore",
+      "tile.block_crimson_fence.name": "Crimson Fence",
+      "item.armor_turtlelegs.name": "Armor Turtle Leggings",
+      "tile.block_ancient_debris.name": "Ancient Debris",
+      "item.item_phantom_membrane.name": "Phantom Membrane",
+      "tile.block_large_amethyst_bud.name": "Большой аметистовый бутон",
+      "tile.block_cobbled_deepslate.name": "Cobbled Deepslate",
+      "tile.block_campfire_soul.name": "Soul Campfire",
+      "item.tool_netherite_hoe.name": "Netherite Hoe",
+      "tile.block_crimson_trapdoor.name": "Crimson Trapdoor",
+      "tile.block_lantern.name": "Lantern",
+      "tile.block_deepslate_tile_slab.name": "Deepslate Tile Slab",
+      "tile.block_stonecutter.name": "Stonecutter",
+      "tile.block_small_dripleaf_stem.name": "Small Dripleaf Stem",
+      "tile.block_cobbled_deepslate_wall.name": "Cobbled Deepslate Wall",
+      "tile.block_warped_trapdoor.name": "Warped Trapdoor",
+      "tile.block_deepslate_diamond_ore.name": "Deepslate Diamond Ore",
+      "tile.block_deepslate_tile_wall.name": "Deepslate Tile Wall",
+      "tile.block_smithing_table.name": "Smithing Table",
+      "tile.block_rail_lucky_way.name": "Rail",
+      "tile.block_amethyst_cluster.name": "Аметистовая друза",
+      "tile.block_small_dripleaf.name": "Small Dripleaf",
+      "tile.block_chain.name": "Цепь",
+      "tile.block_block_of_netherite.name": "Block of Netherite",
+      "tile.block_dark_oak_trapdoor.name": "Dark Oak Trapdoor",
+      "tile.block_pumpkin.name": "Pumpkin",
+      "item.tool_netherite_shovel.name": "Netherite Shovel",
+      "tile.block_medium_amethyst_bud.name": "Средний аметистовый бутон",
+      "tile.block_many_blocks_icon.name": "Block Many Blocks Icon",
+      "tile.block_soul_torch.name": "Soul Torch",
+      "item.tool_netherite_axe.name": "Netherite Axe",
+      "tile.block_deepslate_brick_slab.name": "Deepslate Brick Slab",
+      "item.item_spyglass.name": "Spyglass",
+      "tile.block_bee_nest.name": "Bee Nest",
+      "tile.block_fletching_table.name": "Fletching Table",
+      "tile.block_loom.name": "Loom",
+      "tile.block_beehive_honey.name": "Beehive Honey",
+      "tile.block_sculk_catalyst.name": "Sculk Catalyst",
+      "tile.block_jungle_trapdoor.name": "Jungle Trapdoor",
+      "tile.block_amethyst_block.name": "Аметистовый блок",
+      "itemGroup.tabtab_many_blocks": "Many Blocks",
+      "tile.block_pearlescent_froglight.name": "Pearlescent Froglight",
+      "tile.block_respawn_anchor_one_stage_active.name": "Respawn Anchor One Stage Active",
+      "tile.block_spruce_trapdoor.name": "Spruce Trapdoor",
+      "tile.block_mangrove_fence.name": "Mangrove Fence",
+      "subtitles.wood_place": "",
+      "tile.block_barrel.name": "Barrel",
+      "tile.block_sweet_berries_small.name": "Sweet Berries Small",
+      "tile.block_bamboo_trapdoor.name": "Bamboo Trapdoor",
+      "tile.block_shroomlight.name": "Shroomlight",
+      "tile.block_respawn_anchor_two_stage_active.name": "Respawn Anchor Two Stage Active",
+      "item.armor_turtlehelmet.name": "Turtle Shell",
+      "tile.block_smoker.name": "Smoker",
+      "tile.block_polished_deepslate.name": "Polished Deepslate",
+      "tile.block_stripped_oak_log.name": "Stripped Oak Log",
+      "tile.block_chiseled_deepslate.name": "Chiseled Deepslate",
+      "tile.block_mangrove_propagule.name": "Mangrove Propagule",
+      "tile.block_target.name": "Мишень",
+      "tile.block_soul_lantern.name": "Soul Lantern",
+      "tile.block_deepslate_redstone_ore.name": "Deepslate Redstone Ore",
+      "item.item_nether_portal.name": "Nether Portal",
+      "tile.block_mangrove_trapdoor.name": "Mangrove Trapdoor",
+      "tile.block_stripped_spruce_log.name": "Stripped Spruce Log",
+      "tile.block_cracked_deepslate_tiles.name": "Cracked Deepslate Tiles",
+      "tile.block_respawn_anchor_four_stage_active.name": "Respawn Anchor Four Stage Active",
+      "item.item_recovery_compass.name": "Recovery Compass",
+      "tile.block_lectern.name": "Lectern",
+      "tile.block_barrel_open.name": "Barrel Open",
+      "item.armor_netherite_armorhelmet.name": "Netherite Helmet",
+      "tile.block_bamboo_fence.name": "Bamboo Fence"
+    },
+    "en_us": {
+      "tile.block_block_of_stripped_bamboo.name": "Block of Stripped Bamboo",
+      "tile.block_cracked_deepslate_bricks.name": "Cracked Deepslate Bricks",
+      "tile.block_campfire.name": "Campfire",
+      "tile.block_monster_spawner.name": "Monster Spawner",
+      "tile.block_smoker_active.name": "Smoker Active",
+      "tile.block_small_amethyst_bud.name": "Small Amethyst Bud",
+      "tile.block_deepslate_tile_stairs.name": "Deepslate Tile Stairs",
+      "subtitles.respawn_anchor_charge": "",
+      "tile.block_stripped_jungle_log.name": "Stripped Jungle Log",
+      "tile.block_blast_furnace_use.name": "Blast Furnace Active",
+      "tile.block_deepslate_bricks.name": "Deepslate Bricks",
+      "subtitles.stripped_log": "",
+      "tile.block_ochre_froglight.name": "Ochre Froglight",
+      "tile.block_big_dripleaf.name": "Big Dripleaf",
+      "tile.block_blast_furnace.name": "Blast Furnace",
+      "tile.block_scaffolding.name": "Scaffolding",
+      "tile.block_verdant_froglight.name": "Verdant Froglight",
+      "item.item_netherite_scrap.name": "Netherite Scrap",
+      "tile.block_lightning_rod.name": "Lightning Rod",
+      "tile.block_birch_trapdoor.name": "Birch Trapdoor",
+      "tile.block_soul_lantern_up.name": "Block Soul Lantern Up",
+      "item.item_heart_of_the_sea.name": "§eHeart of the Sea",
+      "item.item_soul_torch.name": "Soul Torch",
+      "tile.block_bee_nest_honey.name": "Bee Nest Honey",
+      "item.armor_netherite_armorbody.name": "Netherite Chestplate",
+      "item.tool_netherite_pickaxe.name": "Netherite Pickaxe",
+      "tile.block_polished_deepslate_stairs.name": "Polished Deepslate Stairs",
+      "subtitles.sweet_berries_place": "",
+      "tile.block_sculk_sensor.name": "Sculk Sensor",
+      "tile.block_deepslate.name": "Deepslate",
+      "item.tool_netherite_sword.name": "Netherite Sword",
+      "subtitles.equip_netherite": "",
+      "tile.block_sculk_sensor_active.name": "Sculk Sensor Active",
+      "tile.block_stripped_birch_log.name": "Stripped Birch Log",
+      "tile.block_crying_obsidian.name": "Crying Obsidian",
+      "tile.block_deepslate_coal_ore.name": "Deepslate Coal Ore",
+      "item.food_sweet_berries.name": "Sweet Berries",
+      "tile.block_sweet_berries.name": "Sweet Berries",
+      "tile.block_honey_block.name": "Honey Block",
+      "tile.block_sweet_berries_medium.name": "Sweet Berries Medium",
+      "tile.block_conduit.name": "§bConduit",
+      "tile.block_composter.name": "Composter",
+      "tile.pumpkin.name": "Carved Pumpkin",
+      "tile.block_deepslate_lapis_lazuli_ore.name": "Deepslate Lapis Lazuli Ore",
+      "tile.block_reinforced_deepslate.name": "Reinforced Deepslate",
+      "tile.block_cobbled_deepslate_slab.name": "Cobbled Deepslate Slab",
+      "tile.block_deepslate_brick_wall.name": "Deepslate Brick Wall",
+      "tile.block_respawn_anchor.name": "Respawn Anchor",
+      "item.item_powder_snow_bucket.name": "Powder Snow Bucket",
+      "tile.block_deepslate_emerald_ore.name": "Deepslate Emerald Ore",
+      "tile.block_soul_torch_wall.name": "Soul Torch Wall",
+      "tile.block_deepslate_tiles.name": "Deepslate Tiles",
+      "tile.block_deepslate_brick_stairs.name": "Deepslate Brick Stairs",
+      "tile.block_stripped_mangrove_log.name": "Stripped Mangrove Log",
+      "tile.block_cobbled_deepslate_stairs.name": "Cobbled Deepslate Stairs",
+      "item.item_echo_shard.name": "Echo Shard",
+      "tile.block_deepslate_copper_ore.name": "Deepslate Copper Ore",
+      "tile.block_big_dripleaf_stem.name": "Big Dripleaf Stem",
+      "tile.block_amethyst_budding.name": "Budding Amethyst",
+      "item.armor_turtleboots.name": "Armor Turtle Boots",
+      "item.item_amethyst_shard.name": "Amethyst Shard",
+      "item.item_netherite_ingot.name": "Netherite Ingot",
+      "tile.block_lodestone.name": "Lodestone",
+      "tile.block_beehive.name": "Beehive",
+      "tile.block_glow_lichen.name": "Glow Lichen",
+      "tile.block_stripped_dark_oak_log.name": "Stripped Dark Oak Log",
+      "tile.block_sweet_berries_large.name": "Sweet Berries Large",
+      "item.armor_turtlebody.name": "Armor Turtle Body",
+      "tile.block_polished_deepslate_wall.name": "Polished Deepslate Wall",
+      "tile.block_infested_deepslate.name": "Infested Deepslate",
+      "tile.block_lantern_up.name": "Lantern Up",
+      "tile.block_warped_fence.name": "Warped Fence",
+      "item.armor_netherite_armorlegs.name": "Netherite Leggings",
+      "tile.block_stripped_acacia_log.name": "Stripped Acacia Log",
+      "tile.block_mangrove_roots.name": "Mangrove Roots",
+      "tile.block_deepslate_gold_ore.name": "Deepslate Gold Ore",
+      "tile.block_acacia_trapdoor.name": "Acacia Trapdoor",
+      "tile.block_sculk_shrieker.name": "Sculk Shrieker",
+      "tile.block_cartography_table.name": "Cartography",
+      "tile.block_polished_deepslate_slab.name": "Polished Deepslate Slab",
+      "tile.block_spore_blossom.name": "Spore Blossom",
+      "item.armor_netherite_armorboots.name": "Netherite Boots",
+      "tile.block_respawn_anchor_three_stage_active.name": "Respawn Anchor Three Stage Active",
+      "tile.block_deepslate_iron_ore.name": "Deepslate Iron Ore",
+      "tile.block_crimson_fence.name": "Crimson Fence",
+      "item.armor_turtlelegs.name": "Armor Turtle Leggings",
+      "tile.block_ancient_debris.name": "Ancient Debris",
+      "item.item_phantom_membrane.name": "Phantom Membrane",
+      "tile.block_large_amethyst_bud.name": "Large Amethyst Bud",
+      "tile.block_cobbled_deepslate.name": "Cobbled Deepslate",
+      "tile.block_campfire_soul.name": "Soul Campfire",
+      "item.tool_netherite_hoe.name": "Netherite Hoe",
+      "tile.block_crimson_trapdoor.name": "Crimson Trapdoor",
+      "tile.block_lantern.name": "Lantern",
+      "tile.block_deepslate_tile_slab.name": "Deepslate Tile Slab",
+      "tile.block_stonecutter.name": "Stonecutter",
+      "tile.block_small_dripleaf_stem.name": "Small Dripleaf Stem",
+      "tile.block_cobbled_deepslate_wall.name": "Cobbled Deepslate Wall",
+      "tile.block_warped_trapdoor.name": "Warped Trapdoor",
+      "tile.block_deepslate_diamond_ore.name": "Deepslate Diamond Ore",
+      "tile.block_deepslate_tile_wall.name": "Deepslate Tile Wall",
+      "tile.block_smithing_table.name": "Smithing Table",
+      "tile.block_rail_lucky_way.name": "Rail",
+      "tile.block_amethyst_cluster.name": "Amethyst Cluster",
+      "tile.block_small_dripleaf.name": "Small Dripleaf",
+      "tile.block_chain.name": "Chain",
+      "tile.block_block_of_netherite.name": "Block of Netherite",
+      "tile.block_dark_oak_trapdoor.name": "Dark Oak Trapdoor",
+      "tile.block_pumpkin.name": "Pumpkin",
+      "item.tool_netherite_shovel.name": "Netherite Shovel",
+      "tile.block_medium_amethyst_bud.name": "Medium Amethyst Bud",
+      "tile.block_many_blocks_icon.name": "Block Many Blocks Icon",
+      "tile.block_soul_torch.name": "Soul Torch",
+      "item.tool_netherite_axe.name": "Netherite Axe",
+      "tile.block_deepslate_brick_slab.name": "Deepslate Brick Slab",
+      "item.item_spyglass.name": "Spyglass",
+      "tile.block_bee_nest.name": "Bee Nest",
+      "tile.block_fletching_table.name": "Fletching Table",
+      "tile.block_loom.name": "Loom",
+      "tile.block_beehive_honey.name": "Beehive Honey",
+      "tile.block_sculk_catalyst.name": "Sculk Catalyst",
+      "tile.block_jungle_trapdoor.name": "Jungle Trapdoor",
+      "tile.block_amethyst_block.name": "Block of Amethyst",
+      "itemGroup.tabtab_many_blocks": "Many Blocks",
+      "tile.block_pearlescent_froglight.name": "Pearlescent Froglight",
+      "tile.block_respawn_anchor_one_stage_active.name": "Respawn Anchor One Stage Active",
+      "tile.block_spruce_trapdoor.name": "Spruce Trapdoor",
+      "tile.block_mangrove_fence.name": "Mangrove Fence",
+      "subtitles.wood_place": "",
+      "tile.block_barrel.name": "Barrel",
+      "tile.block_sweet_berries_small.name": "Sweet Berries Small",
+      "tile.block_bamboo_trapdoor.name": "Bamboo Trapdoor",
+      "tile.block_shroomlight.name": "Shroomlight",
+      "tile.block_respawn_anchor_two_stage_active.name": "Respawn Anchor Two Stage Active",
+      "item.armor_turtlehelmet.name": "Turtle Shell",
+      "tile.block_smoker.name": "Smoker",
+      "tile.block_polished_deepslate.name": "Polished Deepslate",
+      "tile.block_stripped_oak_log.name": "Stripped Oak Log",
+      "tile.block_chiseled_deepslate.name": "Chiseled Deepslate",
+      "tile.block_mangrove_propagule.name": "Mangrove Propagule",
+      "tile.block_target.name": "Target",
+      "tile.block_soul_lantern.name": "Soul Lantern",
+      "tile.block_deepslate_redstone_ore.name": "Deepslate Redstone Ore",
+      "item.item_nether_portal.name": "Nether Portal",
+      "tile.block_mangrove_trapdoor.name": "Mangrove Trapdoor",
+      "tile.block_stripped_spruce_log.name": "Stripped Spruce Log",
+      "tile.block_cracked_deepslate_tiles.name": "Cracked Deepslate Tiles",
+      "tile.block_respawn_anchor_four_stage_active.name": "Respawn Anchor Four Stage Active",
+      "item.item_recovery_compass.name": "Recovery Compass",
+      "tile.block_lectern.name": "Lectern",
+      "tile.block_barrel_open.name": "Barrel Open",
+      "item.armor_netherite_armorhelmet.name": "Netherite Helmet",
+      "tile.block_bamboo_fence.name": "Bamboo Fence"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "manyblocks",
+    "modName": "ManyBlocks",
+    "version": "1.0.0",
+    "author": "w7or3, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.manyblocks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

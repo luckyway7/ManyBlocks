@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "small_dripleaf_top": "small_dripleaf_top",
+        "small_dripleaf_stem_top": "small_dripleaf_stem_top",
+        "small_dripleaf_side": "small_dripleaf_side"
+      },
+      "name": "default"
+    }
+  }
+}

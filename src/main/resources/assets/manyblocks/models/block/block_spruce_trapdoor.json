@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_bottom",
+  "textures": {
+    "texture": "manyblocks:blocks/spruce_trapdoor",
+    "particle": "manyblocks:blocks/spruce_trapdoor"
+  }
+}

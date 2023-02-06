@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "dark_oak_planks": "dark_oak_planks",
+        "stone": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

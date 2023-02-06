@@ -1,0 +1,13 @@
+{
+  "parent": "manyblocks:custom/manyblocks_icon_2",
+  "textures": {
+    "all": "manyblocks:blocks/diamond_ore",
+    "particle": "manyblocks:blocks/diamond_ore",
+    "verdant_froglight_side": "manyblocks:blocks/verdant_froglight_side",
+    "stripped_bamboo_block_top": "manyblocks:blocks/stripped_bamboo_block_top",
+    "missing": "manyblocks:blocks/",
+    "stripped_bamboo_block": "manyblocks:blocks/stripped_bamboo_block",
+    "verdant_froglight_top": "manyblocks:blocks/verdant_froglight_top",
+    "amethyst_block": "manyblocks:blocks/amethyst_block"
+  }
+}

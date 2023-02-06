@@ -1,0 +1,26 @@
+{
+  "group": "manyblocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "manyblocks:item_netherite_ingot"
+    },
+    "2": {
+      "item": "manyblocks:item_netherite_ingot"
+    },
+    "3": {
+      "item": "manyblocks:item_netherite_ingot"
+    },
+    "5": {
+      "item": "manyblocks:item_netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "manyblocks:armor_netherite_armorboots",
+    "count": 1
+  }
+}

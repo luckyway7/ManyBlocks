@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "manyblocks:blocks/loom_bottom",
+    "up": "manyblocks:blocks/loom_top",
+    "north": "manyblocks:blocks/loom_front",
+    "east": "manyblocks:blocks/loom_side",
+    "south": "manyblocks:blocks/loom_side",
+    "west": "manyblocks:blocks/loom_side",
+    "particle": "manyblocks:blocks/loom_bottom"
+  }
+}
